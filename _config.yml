@@ -11,8 +11,9 @@ markdown: kramdown
 permalink: /:categories/:title
 
 prose:
-  rooturl: '/'
+  rooturl: '_posts'
   siteurl: 'http://bastichelaar.github.io'
+  relativeLinks: ''
   media: 'media'
   ignore:
     - index.md
