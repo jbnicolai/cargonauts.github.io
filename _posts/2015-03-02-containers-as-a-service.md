@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+categories: 
+  - blog
 ---
 
 ## Containers as a Service
